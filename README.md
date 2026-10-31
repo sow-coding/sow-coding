@@ -2,7 +2,7 @@
 
 Mon parcours tient en une phrase : dev web junior, devenu vibe-coder, qui veut aujourd'hui redevenir développeur. (Oui, ça se perd.)
 
-D'ailleurs, mon graphe de contributions a l'air bizarre ? C'est normal, il raconte cette histoire.
+D'ailleurs, mon graphe de contributions a l'air bizarre ? C'est normal, il raconte cette histoire:
 
 - **2020** : j'apprends un langage en croyant apprendre la programmation.
 - **2021-2023** : quasi aucun commit. Pourtant je code : du front-end (HTML, SCSS, React) sur des petits projets pendant le lycée. (Mi-2023, je comprends enfin à quoi sert GitHub.)
