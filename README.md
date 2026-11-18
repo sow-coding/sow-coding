@@ -1,6 +1,6 @@
 ## Salut 👋
 
-Mon parcours tient en une phrase : dev web junior, devenu vibe-coder, qui veut aujourd'hui redevenir développeur. (Oui, ça se perd.)
+Mon parcours tient en une phrase : dev web junior, devenu vibe-coder, qui veut aujourd'hui redevenir développeur. (Oui, ça se perd + depuis l'IA le métier a beaucoup changé.)
 
 D'ailleurs, mon graphe de contributions a l'air bizarre ? C'est normal, il raconte cette histoire:
 
@@ -10,6 +10,5 @@ D'ailleurs, mon graphe de contributions a l'air bizarre ? C'est normal, il racon
 - **2026** : le retour aux bases. Cette fois, chaque commit, je le comprends. 
 
 En ce moment, je construis **Pambus** en stream : une app qui adapte en temps réel les itinéraires de bus privés aux chantiers de la voirie bruxelloise.
-Règle du projet : vibe-coding quasi interdit.
 
 🎯 L'objectif ? Décrocher mon premier poste de développeur web full stack.
